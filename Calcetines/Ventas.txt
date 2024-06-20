@@ -1,0 +1,5 @@
+1835;Caro Hansen;Cruz Azul
+3890;Jonatan Giraldez;Demonios Rojos
+4987;Lucy Bronze;Cruces Rojas
+8233;Bruna Vilamala;Liso verde
+9830;Jana Fernandez;Rayas Moradas
