@@ -13,3 +13,7 @@
         </data>
     </configuration>
 </project>
+<properties>
+  <sonar.organization>cristii4</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
